@@ -1,0 +1,14 @@
+#result {
+    margin-top: 5px;
+    width: 250px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#result:empty {
+    border: 0;
+}
+
+.voilier {
+    width: 100%;
+}
